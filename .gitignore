@@ -176,3 +176,4 @@ octave-workspace
 # Custom
 packages/
 env/
+.virtual_documents/
